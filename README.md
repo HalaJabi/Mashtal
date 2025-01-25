@@ -9,7 +9,8 @@ This is final report:
 
 ![image](https://github.com/HalaJabi/Mashtal/assets/124292985/109eaa6c-9149-471b-90b5-1f67ecf1cf42)
 ![image](https://github.com/HalaJabi/Mashtal/assets/124292985/4911a8d9-45a1-4edc-a2c6-efc9b680c1b9)
-![Video](https://img.youtube.com/vi/HkCcr1nMIw4/0.jpg)(https://youtu.be/HkCcr1nMIw4)
+[![MashtalDemo](https://img.youtube.com/vi/HkCcr1nMIw4/0.jpg)](https://youtu.be/HkCcr1nMIw4)
+
 
 
 
